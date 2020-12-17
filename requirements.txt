@@ -1,2 +1,2 @@
 remerkleable==0.1.18
-eth2spec==1.0.0
+git+git://github.com/ethereum/eth2.0-specs.git@dev
